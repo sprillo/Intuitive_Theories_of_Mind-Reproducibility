@@ -14,7 +14,7 @@ $ python -m ipykernel install --user --name intuitive_tom_reproducibility --disp
 
 The pinned requirements are also available.
 
-The notebook takes a few minutes to run end-to-end.
+The notebook takes a few minutes to run end-to-end. Make sure to run the notebook with the new python kernel (in jupyter, go to Kernel -> Change Kernel -> Python (intuitive_tom_reproducibility)).
 
 To convert the notebook to slides and view the presentation in your browser:
 
