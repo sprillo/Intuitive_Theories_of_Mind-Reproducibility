@@ -1,0 +1,6 @@
+numpy==1.13.3
+pandas==0.21.0
+matplotlib==2.1.0
+seaborn==0.7.1
+scipy==1.0.0
+pyjags==1.2.2
